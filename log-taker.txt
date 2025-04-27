@@ -4113,3 +4113,12 @@
 4/27/2025 | 8:23:20 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 4/27/2025 | 8:23:20 AM | INFO | Trying to activate mining on-chain for wallet: 0xb7b9A5A77eA80912562f23eBa06fD6D64Ea58eE5 
 4/27/2025 | 8:23:31 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xbf80fd8084aac1fdd24613d7b2c3a66f5bef403a13b7b2579f50d84bc0e7620b 
+4/27/2025 | 12:36:25 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/27/2025 | 12:36:25 PM | INFO | Start process for wallet 0xb7b9A5A77eA80912562f23eBa06fD6D64Ea58eE5 
+4/27/2025 | 12:36:26 PM | INFO | Trying To Login for wallet: 0xb7b9A5A77eA80912562f23eBa06fD6D64Ea58eE5 
+4/27/2025 | 12:36:27 PM | INFO | Login successful... 
+4/27/2025 | 12:36:27 PM | INFO | Trying to check user info... 
+4/27/2025 | 12:36:27 PM | INFO | User ID: 103216152 | Twitter: @regitamalova | Total Points: 1536000 
+4/27/2025 | 12:36:27 PM | INFO | Trying to check user miner status... 
+4/27/2025 | 12:36:28 PM | INFO | Last mining time: 4/27/2025, 8:23:27 AM
+4/27/2025 | 12:36:28 PM | WARN | Mining already started, next mining time is: 4/28/2025, 8:23:27 AM
