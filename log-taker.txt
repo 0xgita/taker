@@ -5150,3 +5150,12 @@
 5/15/2025 | 12:42:14 PM | INFO | Trying to activate mining on-chain for wallet: 0xb7b9A5A77eA80912562f23eBa06fD6D64Ea58eE5 
 5/15/2025 | 12:42:15 PM | ERROR | Activate Mining Error: {"code":"ECONNRESET","path":null,"host":"rpc-mainnet.taker.xyz","port":443}
 5/15/2025 | 12:42:15 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+5/15/2025 | 4:26:57 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/15/2025 | 4:26:58 PM | INFO | Start process for wallet 0xb7b9A5A77eA80912562f23eBa06fD6D64Ea58eE5 
+5/15/2025 | 4:26:59 PM | INFO | Trying To Login for wallet: 0xb7b9A5A77eA80912562f23eBa06fD6D64Ea58eE5 
+5/15/2025 | 4:26:59 PM | INFO | Login successful... 
+5/15/2025 | 4:26:59 PM | INFO | Trying to check user info... 
+5/15/2025 | 4:27:00 PM | INFO | User ID: 103216152 | Twitter: @regitamalova | Total Points: 1944000 
+5/15/2025 | 4:27:00 PM | INFO | Trying to check user miner status... 
+5/15/2025 | 4:27:22 PM | INFO | Last mining time: 5/15/2025, 8:28:36 AM
+5/15/2025 | 4:27:22 PM | WARN | Mining already started, next mining time is: 5/16/2025, 8:28:36 AM
