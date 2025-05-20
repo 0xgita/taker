@@ -5449,3 +5449,16 @@
 5/20/2025 | 4:26:54 PM | INFO | Trying to check user miner status... 
 5/20/2025 | 4:26:55 PM | INFO | Last mining time: 5/19/2025, 8:23:03 PM
 5/20/2025 | 4:26:55 PM | WARN | Mining already started, next mining time is: 5/20/2025, 8:23:03 PM
+5/20/2025 | 8:23:48 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+5/20/2025 | 8:23:48 PM | INFO | Start process for wallet 0xb7b9A5A77eA80912562f23eBa06fD6D64Ea58eE5 
+5/20/2025 | 8:23:49 PM | INFO | Trying To Login for wallet: 0xb7b9A5A77eA80912562f23eBa06fD6D64Ea58eE5 
+5/20/2025 | 8:23:50 PM | INFO | Login successful... 
+5/20/2025 | 8:23:50 PM | INFO | Trying to check user info... 
+5/20/2025 | 8:23:50 PM | INFO | User ID: 103216152 | Twitter: @regitamalova | Total Points: 2040000 
+5/20/2025 | 8:23:50 PM | INFO | Trying to check user miner status... 
+5/20/2025 | 8:23:51 PM | INFO | Last mining time: 3/17/2025, 4:23:48 AM
+5/20/2025 | 8:23:51 PM | INFO | Trying to start Mining for wallet: 0xb7b9A5A77eA80912562f23eBa06fD6D64Ea58eE5 
+5/20/2025 | 8:23:52 PM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
+5/20/2025 | 8:23:52 PM | INFO | Trying to activate mining on-chain for wallet: 0xb7b9A5A77eA80912562f23eBa06fD6D64Ea58eE5 
+5/20/2025 | 8:23:56 PM | ERROR | Activate Mining Error: {"code":"INSUFFICIENT_FUNDS","transaction":"0x02f86b8204655b80831e848082ed9594b3efe5105b835e5dd9d206445dbd66df24b912ab808402fb0c5ec080a0f4b5e938a2b2e127f6a6036b3b2cc94c7cb3c75f800b6fde33e98eda9ae4c70ca077b823358215230174727023a71d8ec4bc17c06797b1e9a1de9e2e9b11901bc8","info":{"error":{"code":-32603,"message":"insufficient funds for gas * price + value"}},"shortMessage":"insufficient funds for intrinsic transaction cost"}
+5/20/2025 | 8:23:56 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
