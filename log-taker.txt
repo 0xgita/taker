@@ -6578,3 +6578,15 @@
 6/9/2025 | 4:27:57 PM | INFO | Trying to check user miner status... 
 6/9/2025 | 4:27:58 PM | INFO | Last mining time: 6/8/2025, 8:21:30 PM
 6/9/2025 | 4:27:58 PM | WARN | Mining already started, next mining time is: 6/9/2025, 8:21:30 PM
+6/9/2025 | 8:24:02 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+6/9/2025 | 8:24:02 PM | INFO | Start process for wallet 0xb7b9A5A77eA80912562f23eBa06fD6D64Ea58eE5 
+6/9/2025 | 8:24:03 PM | INFO | Trying To Login for wallet: 0xb7b9A5A77eA80912562f23eBa06fD6D64Ea58eE5 
+6/9/2025 | 8:24:04 PM | INFO | Login successful... 
+6/9/2025 | 8:24:04 PM | INFO | Trying to check user info... 
+6/9/2025 | 8:24:04 PM | INFO | User ID: 103216152 | Twitter: @regitamalova | Total Points: 2448000 
+6/9/2025 | 8:24:04 PM | INFO | Trying to check user miner status... 
+6/9/2025 | 8:24:05 PM | INFO | Last mining time: 6/8/2025, 8:21:30 PM
+6/9/2025 | 8:24:05 PM | INFO | Trying to start Mining for wallet: 0xb7b9A5A77eA80912562f23eBa06fD6D64Ea58eE5 
+6/9/2025 | 8:24:06 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+6/9/2025 | 8:24:06 PM | INFO | Trying to activate mining on-chain for wallet: 0xb7b9A5A77eA80912562f23eBa06fD6D64Ea58eE5 
+6/9/2025 | 8:24:17 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xce402d6de02c371f25775b98606f0eb974fb2c9944a55494144440ea1e8f22d7 
